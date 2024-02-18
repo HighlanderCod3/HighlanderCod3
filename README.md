@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on [RTM](https://rtm.net.br/)
 - 🌱 I’m currently learning: How to centralize a div, lol
 - 👋 I think that every profile's README.md has a "fun fact" section, so here's mine: I love Highlander
-- I have a great interest and practice in CTFs and Bug Bounty and Developer Tools
+- I have a great interest and practice in CTFs and Developer Tools.
+- I collaborate with Bug bounty in my free time
 
 <h2 align="left">My expertise</h2>
 
